@@ -1,4 +1,1 @@
-# EBSumners.github.io
-##update for testing since github doesn't automatically create an index (video had index)
-
-https://EBSumners.github.io
+# Repository for Activities 9.1 and 9.2
