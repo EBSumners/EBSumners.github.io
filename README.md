@@ -1,2 +1,2 @@
 # EBSumners.github.io
-##update for testint since github doesn't automatically create an index (video had index)
+##update for testing since github doesn't automatically create an index (video had index)
