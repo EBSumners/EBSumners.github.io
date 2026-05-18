@@ -2,4 +2,4 @@
 
 ## update for testing since github doesn't automatically create an index 
 
-https://github.com/EBSumners/PCDE-Activity-9.1.git
+[https://github.com/EBSumners/PCDE-Activity-9.1.git](https://ebsumners.github.io/PCDE-Activity-9.1/)
